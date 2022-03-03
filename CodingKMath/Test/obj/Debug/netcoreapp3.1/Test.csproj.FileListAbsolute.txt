@@ -1,0 +1,17 @@
+D:\github\CodingKMath\CodingKMath\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\github\CodingKMath\CodingKMath\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\github\CodingKMath\CodingKMath\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\github\CodingKMath\CodingKMath\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\github\CodingKMath\CodingKMath\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\github\CodingKMath\CodingKMath\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\github\CodingKMath\CodingKMath\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+D:\github\CodingKMath\CodingKMath\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\CodingKMath\CodingKMath\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\github\CodingKMath\CodingKMath\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\github\CodingKMath\CodingKMath\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+D:\github\CodingKMath\CodingKMath\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\github\CodingKMath\CodingKMath\Test\obj\Debug\netcoreapp3.1\Test.pdb
+D:\github\CodingKMath\CodingKMath\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+D:\github\CodingKMath\CodingKMath\Test\bin\Debug\netcoreapp3.1\CodingKMath.dll
+D:\github\CodingKMath\CodingKMath\Test\bin\Debug\netcoreapp3.1\CodingKMath.pdb
+D:\github\CodingKMath\CodingKMath\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete

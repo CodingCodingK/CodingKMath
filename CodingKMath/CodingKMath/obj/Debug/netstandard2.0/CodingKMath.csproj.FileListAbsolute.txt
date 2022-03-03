@@ -1,0 +1,10 @@
+D:\github\CodingKMath\CodingKMath\CodingKMath\bin\Debug\netstandard2.0\CodingKMath.deps.json
+D:\github\CodingKMath\CodingKMath\CodingKMath\bin\Debug\netstandard2.0\CodingKMath.dll
+D:\github\CodingKMath\CodingKMath\CodingKMath\bin\Debug\netstandard2.0\CodingKMath.pdb
+D:\github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.csproj.AssemblyReference.cache
+D:\github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.AssemblyInfoInputs.cache
+D:\github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.AssemblyInfo.cs
+D:\github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.csproj.CoreCompileInputs.cache
+D:\github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.dll
+D:\github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.pdb
