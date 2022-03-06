@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U9Yv3GL/5ct0J+FBTyvWa0LK/cWdDtL+FGCce6wUyEXb7B67UtUk7xf6VNwWdQ1rPtqX6W5dpKEs+EF1cgQCdQ==",
+  "dgSpecHash": "uj0gaTpZ1J/z4/XxojSXpEIBblXwX0CU7nWCuqVY/MxjZlpDgsqorHD2ukCusIJergUmjXq9TotprLJFfxu6Og==",
   "success": true,
-  "projectFilePath": "D:\\github\\CodingKMath\\CodingKMath\\CodingKMath\\CodingKMath.csproj",
+  "projectFilePath": "C:\\Github\\CodingKMath\\CodingKMath\\CodingKMath\\CodingKMath.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

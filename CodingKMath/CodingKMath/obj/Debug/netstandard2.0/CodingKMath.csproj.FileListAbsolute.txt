@@ -8,3 +8,15 @@ D:\github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMa
 D:\github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.csproj.CoreCompileInputs.cache
 D:\github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.dll
 D:\github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.pdb
+C:\Github\CodingKMath\CodingKMath\CodingKMath\bin\Debug\netstandard2.0\CodingKMath.deps.json
+C:\Github\CodingKMath\CodingKMath\CodingKMath\bin\Debug\netstandard2.0\CodingKMath.dll
+C:\Github\CodingKMath\CodingKMath\CodingKMath\bin\Debug\netstandard2.0\CodingKMath.pdb
+C:\Github\CodingKMath\CodingKMath\CodingKMath\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll
+C:\Github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.csproj.AssemblyReference.cache
+C:\Github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.AssemblyInfoInputs.cache
+C:\Github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.AssemblyInfo.cs
+C:\Github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.csproj.CoreCompileInputs.cache
+C:\Github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.csproj.CopyComplete
+C:\Github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.dll
+C:\Github\CodingKMath\CodingKMath\CodingKMath\obj\Debug\netstandard2.0\CodingKMath.pdb

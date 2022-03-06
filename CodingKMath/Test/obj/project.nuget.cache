@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K1dPd230nDX5svWXEzTD1nSNoR2JEjzAFQPyctq2kPrwaM0q5k0Hjd+VtblN6SPdYq5QVfflqJXNdudn1OXOog==",
+  "dgSpecHash": "cx3DTX/yM/0uFNspcCzyC2cltHLM9/CwU3NDvHRit/11aOK1Ads+vvx70fYVLH+JQci9mZ6qODyOzzpLHakMmw==",
   "success": true,
-  "projectFilePath": "D:\\github\\CodingKMath\\CodingKMath\\Test\\Test.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\YAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Github\\CodingKMath\\CodingKMath\\Test\\Test.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

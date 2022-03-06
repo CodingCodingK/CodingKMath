@@ -8,6 +8,8 @@ namespace CodingKMath
         private const int BIT_MOVE_COUNT = 10;
         private const long MULTIPLIER_FACTOR = 1 << BIT_MOVE_COUNT;
 
+        public static readonly CodingKInt zero = new CodingKInt(0);
+        public static readonly CodingKInt one = new CodingKInt(1);
 
         private long scaledValue;
         public long ScaledValue
@@ -54,7 +56,15 @@ namespace CodingKMath
         public static CodingKInt operator *(CodingKInt a, CodingKInt b)
         {
             long val = a.scaledValue * b.scaledValue;
-            val >>= BIT_MOVE_COUNT;
+            if (val >= 0)
+            {
+                val >>= BIT_MOVE_COUNT;
+            }
+            else
+            {
+                val = -(-val >> BIT_MOVE_COUNT);
+            }
+            
             return new CodingKInt(val);
         }
 
@@ -101,7 +111,14 @@ namespace CodingKMath
 
         public static CodingKInt operator >>(CodingKInt val, int moveCount)
         {
-            return new CodingKInt(val.scaledValue >> moveCount);
+            if (val.scaledValue >= 0)
+            {
+                return new CodingKInt(val.scaledValue >> moveCount);
+            }
+            else
+            {
+                return new CodingKInt(-(-val.scaledValue >> moveCount));
+            }
         }
 
         public static CodingKInt operator <<(CodingKInt val, int moveCount)
@@ -125,7 +142,14 @@ namespace CodingKMath
         {
             get
             {
-                return (int)(scaledValue / MULTIPLIER_FACTOR);
+                if (scaledValue >= 0)
+                {
+                    return (int)(scaledValue >> BIT_MOVE_COUNT);
+                }
+                else
+                {
+                    return -(int)(-scaledValue >> BIT_MOVE_COUNT);
+                }
             }
         }
 
